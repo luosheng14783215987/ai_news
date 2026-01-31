@@ -1,10 +1,1 @@
-## 📅 AI 每日大事件 - 2026-01-31
 
-| 媒体 | 标题 | 核心摘要 | 链接 |
-| :--- | :--- | :--- | :--- |
-| 国内媒体-新智元 | Anthropic登顶全球第一，吃掉370亿市场！投资大佬连夜抛OpenAI股票 | 报告显示Anthropic占据企业级大模型市场40%份额，位居第一；OpenAI份额下滑至27%。企业AI市场2025年支出达370亿美元。 | [原文](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+Anthropic%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%EF%BC%8C%E5%90%83%E6%8E%89370%E4%BA%BF%E5%B8%82%E5%9C%BA%EF%BC%81%E6%8A%95%E8%B5%84%E5%A4%A7%E4%BD%AC%E8%BF%9E%E5%A4%9C%E6%8A%9BOpenAI%E8%82%A1%E7%A5%A8) |
-| 国内媒体-新智元 | 超10万AI智能体在Moltbook平台建立专属社交网络 | 超过10万个AI智能体在Moltbook平台自发建立社交网络，形成自主社区，进行技术讨论、意识辩论并发展出内部宗教，人类仅具观察权限。 | [原文](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E7%A1%85%E8%B0%B7%E7%82%B8%E4%BA%86%EF%BC%8110%E4%B8%87AI%E4%B8%8AMoltbook%E7%A4%BE%E4%BA%A4%EF%BC%8C%E7%96%AF%E7%8B%82%E5%8A%A0%E5%AF%86%E5%BB%BA%E5%AE%97%E6%95%99%EF%BC%8C%E4%BA%BA%E7%B1%BB%E5%B7%B2%E8%A2%AB%E8%B8%A2%E5%87%BA%E7%BE%A4%E8%81%8A) |
-| 国内媒体-新智元 | Claude「开上」火星！跨越3.6亿公里，AI指挥毅力号自动驾驶 | NASA确认，AI模型Claude首次为毅力号火星车规划并完成400米自动驾驶任务，路线规划效率提升约50%。 | [原文](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+Claude%E3%80%8C%E5%BC%80%E4%B8%8A%E3%80%8D%E7%81%AB%E6%98%9F%EF%BC%81%E8%B7%A8%E8%B6%8A3.6%E4%BA%BF%E5%85%AC%E9%87%8C%EF%BC%8CAI%E6%8C%87%E6%8C%A5%E6%AF%85%E5%8A%9B%E5%8F%B7%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6) |
-| 国内媒体-新智元 | 谷歌Genie 3世界模型开启公测，可一句话生成实时互动环境 | 谷歌宣布其通用世界模型Genie 3向美国Google AI Ultra订阅用户开放公测。该模型可根据文字或图像提示，实时生成可交互、可探索的动态虚拟世界，并集成于网页应用中。 | [原文](http://weixin.sogou.com/weixin?type=2&query=%E6%96%B0%E6%99%BA%E5%85%83+%E5%88%9A%E5%88%9A%EF%BC%8C%E8%B0%B7%E6%AD%8C%E7%89%88%E3%80%8C%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E3%80%8D%E9%9C%87%E6%92%BC%E5%85%AC%E6%B5%8B%EF%BC%81%E7%BD%91%E5%8F%8B%E5%AE%9E%E6%B5%8B%E7%82%B8%E7%BF%BB%E5%A4%A9%EF%BC%9A%E6%B8%B8%E6%88%8F%E6%9C%AB%E6%97%A5%E6%9D%A5%E4%BA%86%EF%BC%9F) |
-
----
